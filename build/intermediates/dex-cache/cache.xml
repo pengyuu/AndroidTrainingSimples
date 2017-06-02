@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/3df0c8a92de5d8535776e7a3186535a02d95a225/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f86c3b3655bc4e3ca2c0ef5fbb09ab8b817847e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/89f119f1752cdb2962e4bca69d71ee1161f130ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3ef21a362bba727da5357a6633e2a1bb94ba7f3">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9009ae98356e1458ca0d98743e850edea81bcfc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/6c07e0268e9ee9e220f4b9cfc367568f5030e012/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9e72afa1a772abe217b18306e7b0ee76186d610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/c8d6e2a5c20407861ae5ab05dc4aac09c2c4b213/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4f43b8c2f6e27ca5381c80b862b3b4331d36f7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/0daef16e2f0cbf6bc88153230547534c4eb9145e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17172aff55bcb5dab12f43adee49af4ad960f78e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/c1d2220e8720033b621651b7c2a0a9758748d677/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93806ee5c0078b9653f72e6ca59d13f11a17b54f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e1f813884679cce7307494cce93752429f0c1788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/0dbda7a97dff4e9057691b434b371c8528a48872/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bdc2af12eae42ddfdc290c4f8ce3c7dc7e0dcf1">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b60568b47b036b15b077aa8b97dab2790bdc670b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/bb965b9407819383ba6c48d5b281fa78e74bc6b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_261c1cefb537bb51b4ed2eef7135c6c7aac885e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/b19696cbbf528c35509498b8d48df49d4f8df8ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3251fcbe9a5435de9ebc3933d77b20b26ad93bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/ca29c0ad7fa83c910b1c6d9034fdb3c2b00e1f8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bd5a638c4ee3d94e24c617f59e86dbbc06e675b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/b275bf00d76457fa797e86a7b5364b54c3cd88f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45dadb0ba92994e35bca6c3ecca1334a8706e252/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.6/b0100ee9ceee5d1861371aefc814cee3e78ed23b/rxjava-2.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0100ee9ceee5d1861371aefc814cee3e78ed23b">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.6_70af465e6be4581fe3197e965ab731d285610881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/11acfd4137beca313f87a0fac93490368bf8704a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_480232ee9e28ea3b12c35eeb0c694ef88785682e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78f226ac9965d67f39370e008fad37a5160219de">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8f1541af77fbc786fc86b5f9b7501e34e5e9610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/eb12a9d2b1153d4d28b01ed1cb4d2aa5aead8ea2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_358479de8a5253b3e476e55d80900a593b52e083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/4c97b84e4255afbe79f78aeb8e59fe7b7076fba1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="421b926b0f5c382673837fcde7c6c7ba48ca2a80">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56b8f3c239d6a6f71ba7e65cc103abecbbcc2ca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_5c2ae62c3a55bb5d320acea453e9fa273bf7367e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/989bb0e5459cb77c829b187ca988e7bdc08191bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_403669d1f5ccf086d43834daea6af8bc6d1898a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_a350ce62fb872c31234b66945518d9db341a9914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/2345ed0587d5cab6bada6e7a9d9925ff41177156/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1be741f63dba6d93accc7a582b2bebae5e750fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/458673d2a10f4a3fce48aae224b79b27129d3859/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/blue/AndroidStudioProjects/AndroidTrainingSimples/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c21c5ab0ebaca1a5e676cd2089a9f6753fa99e02/classes.dex" />
+    </item>
+
+</items>
